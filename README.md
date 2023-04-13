@@ -1,7 +1,5 @@
 # Homework: Graph Algorithms for the Risk Board Game
-
-![](https://github.com/mlcorral/risk/workflows/Risk%20CI/badge.svg)
-
+# Graph Algorithms for Risk [![](https://github.com/mlcorral/risk/workflows/tests/badge.svg)](https://github.com/mlcorral/risk/actions?query=workflow%3Atests)
 You will implement several graph algorithms to develop a tool for the game of Risk.
 
 **Learning Objectives:**
