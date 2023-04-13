@@ -48,7 +48,7 @@ class Board(object):
         return cls([Territory(territory_id=tid, player_id=pid, armies=1) for tid, pid in enumerate(allocation)])
 
     # ====================== #
-    # == Neighbor Methods == #
+    # == Neighbor Methods == ##
     # ====================== #   
 
     def neighbors(self, territory_id):
